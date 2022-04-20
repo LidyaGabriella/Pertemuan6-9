@@ -1,0 +1,5 @@
+D:\visual studio\PV\Koneksi_Database\obj\Debug\Koneksi_Database.csproj.AssemblyReference.cache
+D:\visual studio\PV\Koneksi_Database\obj\Debug\KasirBaru_Pertemuan7.Form1.resources
+D:\visual studio\PV\Koneksi_Database\obj\Debug\Koneksi_Database.Properties.Resources.resources
+D:\visual studio\PV\Koneksi_Database\obj\Debug\Koneksi_Database.csproj.GenerateResource.cache
+D:\visual studio\PV\Koneksi_Database\obj\Debug\Koneksi_Database.csproj.CoreCompileInputs.cache

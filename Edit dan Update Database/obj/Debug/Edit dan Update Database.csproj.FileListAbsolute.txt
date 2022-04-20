@@ -1,0 +1,4 @@
+D:\visual studio\PV\Edit dan Update Database\obj\Debug\KasirBaru_Pertemuan7.Form1.resources
+D:\visual studio\PV\Edit dan Update Database\obj\Debug\Edit_dan_Update_Database.Properties.Resources.resources
+D:\visual studio\PV\Edit dan Update Database\obj\Debug\Edit dan Update Database.csproj.GenerateResource.cache
+D:\visual studio\PV\Edit dan Update Database\obj\Debug\Edit dan Update Database.csproj.CoreCompileInputs.cache

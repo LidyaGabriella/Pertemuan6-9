@@ -1,0 +1,10 @@
+D:\visual studio\PV\Hapus Data Database\bin\Debug\Hapus Data Database.exe.config
+D:\visual studio\PV\Hapus Data Database\bin\Debug\Hapus Data Database.exe
+D:\visual studio\PV\Hapus Data Database\bin\Debug\Hapus Data Database.pdb
+D:\visual studio\PV\Hapus Data Database\obj\Debug\Hapus Data Database.csproj.AssemblyReference.cache
+D:\visual studio\PV\Hapus Data Database\obj\Debug\Hapus_Data_Database.Form1.resources
+D:\visual studio\PV\Hapus Data Database\obj\Debug\Hapus_Data_Database.Properties.Resources.resources
+D:\visual studio\PV\Hapus Data Database\obj\Debug\Hapus Data Database.csproj.GenerateResource.cache
+D:\visual studio\PV\Hapus Data Database\obj\Debug\Hapus Data Database.csproj.CoreCompileInputs.cache
+D:\visual studio\PV\Hapus Data Database\obj\Debug\Hapus Data Database.exe
+D:\visual studio\PV\Hapus Data Database\obj\Debug\Hapus Data Database.pdb
